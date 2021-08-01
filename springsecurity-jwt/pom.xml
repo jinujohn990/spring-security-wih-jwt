@@ -8,7 +8,7 @@
 		<version>2.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.oracle</groupId>
+	<groupId>com.jinu</groupId>
 	<artifactId>springsecurity-jwt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springsecurity-jwt</name>
